@@ -1,4 +1,4 @@
-# Bot de Recompensas — Discord Bot Dashboard
+# Panel Bot 
 
 Discord bots tend to collect a lot of little rules. This project gives them a control panel, so changing a reply, adjusting access, or checking whether a bot is online doesn’t mean digging through command code.
 
